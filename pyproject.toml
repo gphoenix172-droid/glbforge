@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "glbforge"
+version = "0.1.0"
+description = "A tiny, dependency-light GLB (binary glTF 2.0) writer for Python."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "WCN Development Co, LLC" }]
+keywords = ["gltf", "glb", "3d", "mesh", "graphics", "gamedev"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Multimedia :: Graphics :: 3D Modeling",
+]
+
+[project.urls]
+Homepage = "https://github.com/gphoenix172-droid/glbforge"
