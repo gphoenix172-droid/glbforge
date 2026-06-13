@@ -5,7 +5,7 @@ Write 3D meshes to .glb with positions, normals, UVs, vertex colors,
 indices, and PBR materials — using nothing but the Python standard library.
 
 Built and open-sourced by WCN Development Co, LLC. MIT licensed.
-https://github.com/gphoenix172-droid/glbforge
+https://github.com/WCN-DEV-CO/glbforge
 """
 from .writer import GLB, Mesh, Material
 
