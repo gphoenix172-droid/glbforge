@@ -1,5 +1,7 @@
 # glbforge
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE) [![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org) [![Zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](#) [![Built by WCN](https://img.shields.io/badge/built%20by-WCN%20Development%20Co-1f6feb.svg)](https://github.com/WCN-DEV-CO)
+
 **A tiny, dependency-light GLB (binary glTF 2.0) writer for Python.**
 
 Write 3D meshes to `.glb` — positions, normals, UVs, vertex colors, indices, and PBR materials — using nothing but the Python standard library. No numpy. No dependencies. One small file.
